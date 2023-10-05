@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a target="_blank" >Humboldt-University</a>
+subtitle: <a target="_blank" >Humboldt University
 
 profile:
   align: right
