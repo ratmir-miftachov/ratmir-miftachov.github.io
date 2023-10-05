@@ -6,12 +6,12 @@ description:
 nav: true
 ---
 
-#### Work-in-progress
+#### **Work-in-progress**
 
 Pricing Kernels
 Package for Early Stopping
 On the random planted forest
 
-#### Working-paper
+#### **Working-paper**
 
 Shapley smoothing
