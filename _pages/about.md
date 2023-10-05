@@ -6,7 +6,7 @@ subtitle: Humboldt University
 
 profile:
   align: right
-  image: Pic_Brisighella.JPG
+  image: rmpic.JPG
   image_circular: false # crops the image to make it circular
   address: 
 
