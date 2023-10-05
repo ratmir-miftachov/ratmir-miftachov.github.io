@@ -6,14 +6,14 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ratmir    
 middle_name: 
 last_name: Miftachov
-email: julian.streyczek@phd.unibocconi.it
+email: miftachr@hu-berlin.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD Student in Economics @ Bocconi
+  PhD Student in Statistics @ HU
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-keywords: economics, political economics, bocconi, phd, causal analysis  # add your own keywords or leave empty
+keywords: statistics, HU, phd, machine learning  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🚀  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -67,11 +67,11 @@ og_image: /assets/img/Pic_Brisighella_small.JPG # The site-wide (default for all
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: JulianStreyczek # your GitHub user name
+github_username: ratmir-miftachov # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: julian-streyczek-590454105 # your LinkedIn user name
+linkedin_username: ratmir-miftachov-190799158 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
