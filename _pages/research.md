@@ -6,6 +6,12 @@ description:
 nav: true
 ---
 
-#### Work in Progress
+#### Work-in-progress
 
-Political Effects of Newspaper Paywalls <sub><sup>(Presented at Meeting of Young Economists 2023 in Turin, Italy)</sup></sub>
+Pricing Kernels
+Package for Early Stopping
+On the random planted forest
+
+#### Working-paper
+
+Shapley smoothing
