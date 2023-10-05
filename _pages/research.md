@@ -8,12 +8,12 @@ nav: true
 
 #### **Work-in-progress**
 
-Pricing Kernels
+Pricing Kernel Estimation for BTC Options
 
-Package for Early Stopping
+Python Package for Early Stopping Methods
 
-On the random planted forest
+Early Stopping for Random Planted Forest
 
 #### **Working-paper**
 
-Shapley smoothing
+Shapley Curves: A Smoothing Perspective
