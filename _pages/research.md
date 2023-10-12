@@ -16,4 +16,4 @@ Early Stopping for Random Planted Forest
 
 #### **Working-paper**
 
-Shapley Curves: A Smoothing Perspective
+[Shapley Curves: A Smoothing Perspective](https://arxiv.org/pdf/2211.13289.pdf) (with G. Keilbar and wolfgang Härdle)
