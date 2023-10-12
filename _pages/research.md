@@ -13,10 +13,12 @@ Pricing Kernel Estimation for BTC Options
 Early Stopping for Random Planted Forest
 
 
+
 #### **Working-paper**
 
-[Shapley Curves: A Smoothing Perspective](https://arxiv.org/pdf/2211.13289.pdf) 
-
+**Title:** [Shapley Curves: A Smoothing Perspective](https://arxiv.org/pdf/2211.13289.pdf)  
+**Co-authors:** Dr. CoAuthor1, Dr. CoAuthor2, [continue with other co-authors]  
+**Abstract:** 
 
 #### **Software**
 
