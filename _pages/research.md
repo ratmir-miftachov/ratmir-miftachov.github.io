@@ -9,9 +9,11 @@ nav: true
 #### **Work-in-progress**
 
 **Title:** Pricing Kernel Estimation for BTC Options
+<br>
 **Co-Authors:** Caio Almeida, Maria Grith, Zijin Wang 
 
 **Title:** Early Stopping for Random Planted Forest
+<br>
 **Co-Authors:** Markus Reiss
 
 
@@ -26,4 +28,5 @@ Originating from cooperative game theory, Shapley values have become one of the 
 #### **Software**
 
 **Title:** Python Package for Early Stopping Methods
+<br>
 **Co-Authors:** Laura Hucker, Bernhard Stankewitz, Eric Ziebell
