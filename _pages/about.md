@@ -17,6 +17,6 @@ social: false  # includes social icons at the bottom of the page
 
 Hello there! I am a third-year PhD student in Statistics at Humboldt University in Berlin, Germany.
 
-I am interested in **nonparametric statistics** and **financial econometrics**. 
+I am interested in **nonparametric statistics**, **interpretable machine learning** and **financial econometrics**. 
 
 Over the next years, I will share my research and possibly other interesting insights on this website. Stay tuned! :rocket:
