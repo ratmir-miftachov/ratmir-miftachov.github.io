@@ -12,7 +12,7 @@ nav: true
 <br>
 **Co-Authors:** Caio Almeida, Maria Grith, Zijin Wang 
 
-**Title:** Early Stopping for Random Planted Forest
+**Title:** Early Stopping for Random Forest
 <br>
 **Co-Authors:** Markus Reiss
 
