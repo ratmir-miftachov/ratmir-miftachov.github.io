@@ -30,6 +30,5 @@ Major revision at Journal of Business & Economic Statistics
 
 #### **Software**
 
-**Title:** [Python Package for Early Stopping Methods](https://esfiep.github.io/EarlyStopping/)  
-<br>
+**Title:** [Python Library for Early Stopping Methods](https://esfiep.github.io/EarlyStopping/)  
 **Co-Authors:** Laura Hucker, Bernhard Stankewitz, Eric Ziebell
