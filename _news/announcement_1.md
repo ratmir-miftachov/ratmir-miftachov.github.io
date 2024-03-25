@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-01-01 
-inline: true
+inline: false
 ---
 Received a doctoral scholarship from thesd
 
