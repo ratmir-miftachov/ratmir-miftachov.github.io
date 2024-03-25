@@ -3,7 +3,7 @@ layout: post
 date: 2023-05-01 15:59:00-0400
 inline: true
 ---
-Presented my [working-paper](https://arxiv.org/pdf/2211.13289.pdf) during conferences at [Princeton U](https://fan60.princeton.edu/) and Rutgers U.
+Presented my [working-paper](https://arxiv.org/pdf/2211.13289.pdf) during conferences at [Princeton U](https://fan60.princeton.edu/) and Rutgers U in the US.
 
 
 
