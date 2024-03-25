@@ -23,7 +23,8 @@ nav: true
 **Co-Authors:** Georg Keilbar, Wolfgang Härdle 
 
 **Abstract:** 
-Originating from cooperative game theory, Shapley values have become one of the most widely used measures for variable importance in applied Machine Learning. However, the statistical understanding of Shapley values is still limited. In this paper, we take a nonparametric (or smoothing) perspective by introducing Shapley curves as a local measure of variable importance. We consider two estimation strategies and derive the consistency and asymptotic normality both under independence and dependence among the features. We further propose a novel version of the wild bootstrap procedure specifically adjusted for Shapley curves. This allows us to construct confidence intervals and conduct inference. The asymptotic results are validated in extensive experiments. In an empirical application, we analyze which attributes drive the prices of vehicles.
+This paper fills the limited statistical understanding of Shapley values as a variable importance measure from a nonparametric (or smoothing) perspective. We introduce population-level \textit{Shapley curves} to measure the true variable importance, determined by the conditional expectation function and the distribution of covariates. Having defined the estimand, we derive minimax convergence rates and asymptotic normality under general conditions for the two leading estimation strategies. For finite sample inference, we propose a novel version of the wild bootstrap procedure tailored for capturing lower-order terms in the estimation of Shapley curves.
+Numerical studies confirm our theoretical findings, and an empirical application analyzes the determining factors of vehicle prices.
 
 Major revision at Journal of Business & Economic Statistics
 
