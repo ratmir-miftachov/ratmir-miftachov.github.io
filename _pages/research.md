@@ -8,11 +8,11 @@ nav: true
 
 #### **Work-in-progress**
 
-**Title:** Pricing Kernel Estimation for BTC Options
+**Title:** Risk Premiums in the Bitcoin Market 
 <br>
 **Co-Authors:** Caio Almeida, Maria Grith, Zijin Wang 
 
-**Title:** Early Stopping for Random Forest
+**Title:** Early Stopping for Regression Trees
 <br>
 **Co-Authors:** Markus Reiss
 
@@ -30,6 +30,6 @@ Major revision at Journal of Business & Economic Statistics
 
 #### **Software**
 
-**Title:** Python Package for Early Stopping Methods
+**Title:** [Python Package for Early Stopping Methods](https://esfiep.github.io/EarlyStopping/)  
 <br>
 **Co-Authors:** Laura Hucker, Bernhard Stankewitz, Eric Ziebell
