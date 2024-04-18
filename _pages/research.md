@@ -26,7 +26,7 @@ nav: true
 This paper fills the limited statistical understanding of Shapley values as a variable importance measure from a nonparametric (or smoothing) perspective. We introduce population-level <i>Shapley curves</i> to measure the true variable importance, determined by the conditional expectation function and the distribution of covariates. Having defined the estimand, we derive minimax convergence rates and asymptotic normality under general conditions for the two leading estimation strategies. For finite sample inference, we propose a novel version of the wild bootstrap procedure tailored for capturing lower-order terms in the estimation of Shapley curves.
 Numerical studies confirm our theoretical findings, and an empirical application analyzes the determining factors of vehicle prices.
 
-Major revision at Journal of Business & Economic Statistics
+Minor revision at Journal of Business & Economic Statistics
 
 #### **Software**
 
