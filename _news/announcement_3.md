@@ -3,7 +3,7 @@ layout: post
 date: 2024-07-01 15:59:00-0400
 inline: true
 ---
-Our paper on [Shapley Curves](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2365781) got accepted at Journal of Business and Economic Statistics.
+Our paper on [Shapley Curves](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2365781) got accepted at the Journal of Business and Economic Statistics.
 
 
 
