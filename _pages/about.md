@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello there! I am a third-year PhD student in Statistics at Humboldt University in Berlin, Germany.
+Hello there! I am a fourth-year PhD student in Statistics at the Humboldt University of Berlin, Germany.
 
-I am interested in **nonparametric statistics**, **interpretable machine learning** and **financial econometrics**. 
+My research interests span **nonparametric statistics**, **statistical machine learning** and **financial econometrics**. I'm fortunate to be advised by Prof. [Wolfgang Härdle](https://scholar.google.com/citations?hl=en&user=XMlSKFcAAAAJ&view_op=list_works)
 
-Over the next years, I will share my research and possibly other interesting insights on this website. Stay tuned! :rocket:
+Currently, I am mainly working on early stopping methods for decision trees and the random forest.
