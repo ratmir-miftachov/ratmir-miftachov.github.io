@@ -6,22 +6,8 @@ description:
 nav: true
 ---
 
-#### **Work-in-progress**
 
-**Title:** Risk Premia in the Bitcoin Market 
-<br>
-**Co-Authors:** Caio Almeida, Maria Grith, Zijin Wang 
-
-**Abstract:** 
-We adopt options to analyze risk premia in the Bitcoin market. By decomposing the index risk premium into different segments of the return space, we find that negative returns between -60\% and -20\% explain one-third of the total Bitcoin premium (BP). In contrast to the results for the S\&P 500 market, where moderately negative returns explain 70\% of the equity premium, this result challenges the assumptions of traditional macro-finance models, including those based on long-run risk, habit formation, disaster risk, and disappointment aversion. By clustering data using a collection of risk-neutral densities, we find that risk premia vary over time depending on market conditions, and the risk-neutral variance arises as the leading state variable characterizing these clusters. During low-volatility market states, (i) investors’ appetite for upside risk increases, raising the BP attributable to positive returns; (ii) they exhibit heightened sensitivity to negative returns, steepening the pricing kernel; and (iii) their concern for variance risk intensifies.
-
-**Title:** Early Stopping for Regression Trees
-<br>
-**Co-Authors:** Markus Reiss
-
-
-
-#### **Working-paper**
+#### **Publications**
 
 **Title:** [Shapley Curves: A Smoothing Perspective](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2365781)  
 **Co-Authors:** Georg Keilbar, Wolfgang Härdle 
@@ -32,9 +18,24 @@ Numerical studies confirm our theoretical findings, and an empirical application
 
 Published at Journal of Business & Economic Statistics
 
+#### **Work-in-progress**
+
+**Title:** Early Stopping for Regression Trees
+<br>
+**Co-Author:** Markus Reiss
+
+**Title:** Risk Premia in the Bitcoin Market 
+<br>
+**Co-Authors:** Caio Almeida, Maria Grith, Zijin Wang 
+
+**Abstract:** 
+We adopt options to analyze risk premia in the Bitcoin market. By decomposing the index risk premium into different segments of the return space, we find that negative returns between -60\% and -20\% explain one-third of the total Bitcoin premium (BP). In contrast to the results for the S\&P 500 market, where moderately negative returns explain 70\% of the equity premium, this result challenges the assumptions of traditional macro-finance models, including those based on long-run risk, habit formation, disaster risk, and disappointment aversion. By clustering data using a collection of risk-neutral densities, we find that risk premia vary over time depending on market conditions, and the risk-neutral variance arises as the leading state variable characterizing these clusters. During low-volatility market states, (i) investors’ appetite for upside risk increases, raising the BP attributable to positive returns; (ii) they exhibit heightened sensitivity to negative returns, steepening the pricing kernel; and (iii) their concern for variance risk intensifies.
+
+
+
 #### **Software**
 
-**Title:** [Python Library for Early Stopping Methods](https://earlystop.github.io/EarlyStopping/)  
+**Title:** [Python Library for Early Stopping Methods](https://github.com/EarlyStop/EarlyStopping)  
 **Co-Authors:** Laura Hucker, Bernhard Stankewitz, Eric Ziebell
 
 **Abstract:** 
