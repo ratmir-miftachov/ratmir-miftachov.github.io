@@ -30,15 +30,19 @@ For iterative estimation procedures applied to statistical inverse problems, it 
 
 #### **Work-in-progress**
 
-**Title:** Early Stopping for Regression Trees
+**Title:** Generalized Projection Flow for Regression Trees
 <br>
 **Co-Author:** Markus Reiss
+
+**Title:** Early Stopping for Random Forest Classifier
+<br>
+**Co-Author:** Mustafa Suman
 
 **Title:** Risk Premia in the Bitcoin Market 
 <br>
 **Co-Authors:** Caio Almeida, Maria Grith, Zijin Wang 
 
 **Abstract:** 
-We adopt options and realized returns to offer a detailed analysis of risk premia in the Bitcoin market. First, by decomposing the index premium in the return space, we find that negative returns in the interval [-60%, -20%] explain one-third of the total Bitcoin premium (BP), directly contrasting with the S&P 500 market, where moderately negative returns explain approximately 70% of the equity premium (Beason and Schreindorfer, 2022). Then, further adopting a collection of risk-neutral densities and a new clustering algorithm, we find that risk premia vary over time depending on market volatility. In low-volatility states, the BP for positive returns is higher, the pricing kernel is steeper in the negative returns region, and variance risk premium is high. In high-volatility states, the BP attributable to positive and negative returns becomes more balanced. 
+Based on options and realized returns we analyze risk premia in the Bitcoin market through the lens of the Pricing Kernel (PK). We identify that: 1) The projected PK into Bitcoin returns is W-shaped and steep in the negative returns region; 2) Negative Bitcoin returns account for 33% of the total Bitcoin index premium (BP) in contrast to 70% of S\&P500 equity premium explained by negative returns. Applying a novel clustering algorithm to the collection of estimated Bitcoin risk-neutral densities, we find that risk premia vary over time as a function of two distinct market volatility regimes. In the low-volatility regime, the PK projection is steeper for negative returns and has a more pronounced W-shape than the unconditional one, implying particularly high BP for both extreme positive and negative returns and a high Variance Risk Premium (VRP). In high-volatility states, the BP attributable to positive and negative returns is more balanced and VRP is lower. Overall, Bitcoin investors are more worried about variance and downside risk in low volatility states. 
 
 
