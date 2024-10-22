@@ -38,7 +38,7 @@ For iterative estimation procedures applied to statistical inverse problems, it 
 <br>
 **Co-Author:** Mustafa Suman
 
-**Title:** Risk Premia in the Bitcoin Market 
+**Title:** [Risk Premia in the Bitcoin Market](https://arxiv.org/abs/2410.15195) 
 <br>
 **Co-Authors:** Caio Almeida, Maria Grith, Zijin Wang 
 
