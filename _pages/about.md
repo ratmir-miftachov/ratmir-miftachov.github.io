@@ -6,7 +6,7 @@ subtitle: Humboldt University of Berlin
 
 profile:
   align: right
-  image: rmpic2.jpg
+  image: ratmir_orfe_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: 
 
