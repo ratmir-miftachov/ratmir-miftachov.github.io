@@ -21,7 +21,7 @@ Published at Journal of Business & Economic Statistics
 
 #### **Software**
 
-**Title:** [Python Library for Early Stopping Methods](https://github.com/EarlyStop/EarlyStopping)  
+**Title:** [Python Library for Early Stopping Methods](https://earlystop.github.io/EarlyStopping/index.html)  
 **Co-Authors:** Laura Hucker, Bernhard Stankewitz, Eric Ziebell
 
 **Abstract:** 
@@ -32,7 +32,10 @@ For iterative estimation procedures applied to statistical inverse problems, it 
 
 **Title:** Generalized Projection Flow for Regression Trees
 <br>
-**Co-Author:** Markus Reiss
+**Co-Author:** Markus Reiß
+
+**Abstract:** 
+We introduce the early stopped regression tree estimator using a novel, fully data-driven stopping rule based on the discrepancy principle. Our framework combines the best-first search and the breadth-first search algorithm with the proposed stopping rule and unifies both. We establish an oracle inequality for the early-stopped regression tree under the original CART splitting without any smoothness assumption on the regression function. The leading term is of order $n^{-1/2}$. Thus, we encompass the previous literature's regression tree consistency results, which have a larger order and are less general in the functional class. Finally, a simulation study demonstrates that our approach achieves performance comparable to the state of the art while reducing computational costs by a factor of 10 to 20 and being more interpretable.
 
 **Title:** Early Stopping for Random Forest Classifier
 <br>
