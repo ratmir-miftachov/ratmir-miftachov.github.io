@@ -41,6 +41,10 @@ We introduce the early stopped regression tree estimator using a novel, fully da
 <br>
 **Co-Author:** Mustafa Suman
 
+**Abstract:** 
+Extended previous work to the random forest classifier. The early stopped forest is computationally efficient, has
+significantly fewer nodes, and its prediction performance is on par with the deeply grown forest.
+
 **Title:** [Risk Premia in the Bitcoin Market](https://arxiv.org/abs/2410.15195) 
 <br>
 **Co-Authors:** Caio Almeida, Maria Grith, Zijin Wang 
