@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello there! I am a fourth-year PhD student in Statistics at the Humboldt University of Berlin, Germany.
+Hello there! I am a PhD student in Statistics at Humboldt University of Berlin, Germany, currently in the penultimate year of my program.
 
 My research interests span **nonparametric statistics**, **statistical machine learning** and **financial econometrics**. I'm fortunate to be advised by Prof. [Wolfgang Karl Härdle](https://scholar.google.com/citations?hl=en&user=XMlSKFcAAAAJ&view_op=list_works).
 
