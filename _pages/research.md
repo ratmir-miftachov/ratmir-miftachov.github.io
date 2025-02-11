@@ -6,7 +6,6 @@ description:
 nav: true
 ---
 
-
 #### **Publications**
 
 **Title:** [Shapley Curves: A Smoothing Perspective](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2365781)  
