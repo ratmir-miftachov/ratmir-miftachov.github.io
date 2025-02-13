@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-01 15:59:00-0400
+date: 2025-02-01 15:59:00-0400
 inline: true
 ---
-Started my research visit for the Fall 2024 semester at the [ORFE Department](https://orfe.princeton.edu/) at Princeton University under the supervision of Prof. Jianqing Fan. 
+Our preprint on [Early Stopping for Regression Trees](https://arxiv.org/abs/2502.04709) is online! 
 
 
