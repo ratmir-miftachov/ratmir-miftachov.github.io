@@ -27,6 +27,7 @@ Published at Journal of Business & Economic Statistics
 For iterative estimation procedures applied to statistical inverse problems, it is necessary to choose a suitable iteration index to avoid under- and overfitting. Classical model selection criteria can be prohibitively expensive in high dimensions. In the last few years, it has been shown for several regularisation methods that sequential early stopping can achieve statistical and computational efficiency by halting at a data-driven index depending on previous iterates only.  We are in the process of implementing these residual-based stopping rules for different algorithms like Landweber, conjugate gradients and L2-boosting in our Python package "EarlyStopping". In the future, we will include early stopping for decision trees. We demonstrate its functionality based on several simulation examples.
 
 
+
 #### **Preprints**
 
 **Title:** [Early Stopping for Regression Trees](https://arxiv.org/abs/2502.04709) 
