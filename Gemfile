@@ -1,4 +1,11 @@
 source 'https://rubygems.org'
+
+# Explicitly set the bundler version to avoid conflicts
+gem 'bundler', '~> 2.4.0'
+
+# Avoid uri gem conflicts - uri is a default gem in Ruby
+# If any dependency requires uri, it will use the system version
+
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
