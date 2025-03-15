@@ -29,9 +29,10 @@ For iterative estimation procedures applied to statistical inverse problems, it 
 
 #### **Preprints**
 
-**Title:** [Early Stopping for Regression Trees](https://arxiv.org/abs/2502.04709) [Slides](https://drive.google.com/drive/folders/1xlvNqYvuXb5iKfTai53B_dckSAWYzpM3)
+**Title:** [Early Stopping for Regression Trees](https://arxiv.org/abs/2502.04709)
 <br>
 **Co-Author:** Markus Reiß
+[[Slides]](https://drive.google.com/drive/folders/1xlvNqYvuXb5iKfTai53B_dckSAWYzpM3)
 
 **Abstract:** 
 We develop early stopping rules for growing regression tree estimators. The fully data-driven stopping rule is based on monitoring the global residual norm. The best-first search and the breadth-first search algorithms together with linear interpolation give rise to generalized projection or regularization flows. A general theory of early stopping is established. Oracle inequalities for the early-stopped regression tree are derived without any smoothness assumption on the regression function, assuming the original CART splitting rule, yet with a much broader scope. The remainder terms are of smaller order than the best achievable rates for Lipschitz functions in dimension larger or equal to two. In real and synthetic data the early stopping regression tree estimators attain the statistical performance of cost-complexity pruning while significantly reducing computational costs.
