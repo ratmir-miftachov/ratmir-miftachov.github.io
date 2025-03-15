@@ -49,11 +49,14 @@ echo "Deploying..."
 echo "Source branch: $SRC_BRANCH"
 echo "Deploy branch: $DEPLOY_BRANCH"
 
-read -r -p "Do you want to proceed? [y/N] " response
-if [[ ! $response =~ ^([yY][eE][sS]|[yY])+$ ]]
-then
-    echo "Aborting."
-    [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1
+# Skip the confirmation prompt if running in GitHub Actions
+if [[ -z "${GITHUB_ACTIONS}" ]]; then
+    read -r -p "Do you want to proceed? [y/N] " response
+    if [[ ! $response =~ ^([yY][eE][sS]|[yY])+$ ]]
+    then
+        echo "Aborting."
+        [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1
+    fi
 fi
 
 # Check if there are any uncommitted changes
