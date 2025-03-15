@@ -32,6 +32,7 @@ For iterative estimation procedures applied to statistical inverse problems, it 
 **Title:** [Early Stopping for Regression Trees](https://arxiv.org/abs/2502.04709)
 <br>
 **Co-Author:** Markus Reiß
+
 [[Slides]](https://drive.google.com/drive/folders/1xlvNqYvuXb5iKfTai53B_dckSAWYzpM3)
 
 **Abstract:** 
