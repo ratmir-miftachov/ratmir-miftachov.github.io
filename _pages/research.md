@@ -20,7 +20,8 @@ Published at Journal of Business & Economic Statistics
 
 #### **Software**
 
-**Title:** [Python Library for Early Stopping Methods](https://arxiv.org/abs/2503.16753)  
+**Title:** [EarlyStopping: Implicit Regularization for Iterative Learning Procedures in Python
+](https://arxiv.org/abs/2503.16753)  
 **Co-Authors:** Laura Hucker, Bernhard Stankewitz, Eric Ziebell (in alphabetical order)
 
 **Abstract:** 
