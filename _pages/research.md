@@ -20,12 +20,12 @@ Published at Journal of Business & Economic Statistics
 
 #### **Software**
 
-**Title:** [EarlyStopping: Implicit Regularization for Iterative Learning Procedures in Python
+**Title:** [EarlyStopping: Implicit Regularisation for Iterative Learning Procedures in Python
 ](https://arxiv.org/abs/2503.16753)  
 **Co-Authors:** Laura Hucker, Bernhard Stankewitz, Eric Ziebell (in alphabetical order)
 
 **Abstract:** 
-Iterative learning procedures are ubiquitous in machine learning and modern statistics. Regularision is typically required to prevent inflating the expected loss of a procedure in later iterations via the propagation of noise inherent in the data. Significant emphasis hasbeen placed on achieving this regularisation implicitly by stopping procedures early. The EarlyStopping-package provides a toolbox of (in-sample) sequential early stopping rules for several well-known iterative estimation procedures, such as truncated SVD, Landweber (gradient descent), conjugate gradient descent, L2-boosting and regression trees. One of the central features of the package is that the algorithms allow the specification of the true data-generating process and keep track of relevant theoretical quantities. In this paper, we detail the principles governing the implementation of the EarlyStopping-package and provide a survey of recent foundational advances in the theoretical literature. We demonstrate how to use the EarlyStopping-package to explore core features of implicit regularisation and replicate results from the literature.
+Iterative learning procedures are ubiquitous in machine learning and modern statistics. Regularisation is typically required to prevent inflating the expected loss of a procedure in later iterations via the propagation of noise inherent in the data. Significant emphasis hasbeen placed on achieving this regularisation implicitly by stopping procedures early. The EarlyStopping-package provides a toolbox of (in-sample) sequential early stopping rules for several well-known iterative estimation procedures, such as truncated SVD, Landweber (gradient descent), conjugate gradient descent, L2-boosting and regression trees. One of the central features of the package is that the algorithms allow the specification of the true data-generating process and keep track of relevant theoretical quantities. In this paper, we detail the principles governing the implementation of the EarlyStopping-package and provide a survey of recent foundational advances in the theoretical literature. We demonstrate how to use the EarlyStopping-package to explore core features of implicit regularisation and replicate results from the literature.
 
 #### **Preprints**
 
