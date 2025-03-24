@@ -1,29 +1,19 @@
 ---
 layout: post
-date: 2024-07-01 15:59:00-0400
+date: 2024-09-01 15:59:00-0400
 inline: true
 ---
-Our paper on [Shapley Curves](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2365781) is published at the Journal of Business and Economic Statistics.
+Started my research visit for the Fall 2024 semester at the [ORFE Department](https://orfe.princeton.edu/) at Princeton University under the supervision of Prof. Jianqing Fan. 
 
 
 
 
 
-
-
-
-
-
-
-
-
-<!-- ---
+<!-- 
+---
 layout: post
-date: 2023-08-01 15:59:00-0400
+date: 2023-05-01 15:59:00-0400
 inline: true
 ---
-Started a position as a research associate in the Mathematics Department at HU Berlin, under the supervision of Prof. Markus Reiß.
-
- -->
-
-
+Research visit at Princeton University (ORFE Department). Presented my [working-paper](https://arxiv.org/pdf/2211.13289.pdf) during conferences at [Princeton U](https://fan60.princeton.edu/) and Rutgers U.
+-->

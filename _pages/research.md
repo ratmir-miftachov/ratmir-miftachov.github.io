@@ -20,12 +20,11 @@ Published at Journal of Business & Economic Statistics
 
 #### **Software**
 
-**Title:** [Python Library for Early Stopping Methods](https://earlystop.github.io/EarlyStopping/index.html)  
+**Title:** [Python Library for Early Stopping Methods](https://arxiv.org/abs/2503.16753)  
 **Co-Authors:** Laura Hucker, Bernhard Stankewitz, Eric Ziebell (in alphabetical order)
 
 **Abstract:** 
-For iterative estimation procedures applied to statistical inverse problems, it is necessary to choose a suitable iteration index to avoid under- and overfitting. Classical model selection criteria can be prohibitively expensive in high dimensions. In the last few years, it has been shown for several regularisation methods that sequential early stopping can achieve statistical and computational efficiency by halting at a data-driven index depending on previous iterates only.  We are in the process of implementing these residual-based stopping rules for different algorithms like Landweber, conjugate gradients and L2-boosting in our Python package "EarlyStopping". In the future, we will include early stopping for decision trees. We demonstrate its functionality based on several simulation examples.
-
+Iterative learning procedures are ubiquitous in machine learning and modern statistics. Regularision is typically required to prevent inflating the expected loss of a procedure in later iterations via the propagation of noise inherent in the data. Significant emphasis hasbeen placed on achieving this regularisation implicitly by stopping procedures early. The EarlyStopping-package provides a toolbox of (in-sample) sequential early stopping rules for several well-known iterative estimation procedures, such as truncated SVD, Landweber (gradient descent), conjugate gradient descent, L2-boosting and regression trees. One of the central features of the package is that the algorithms allow the specification of the true data-generating process and keep track of relevant theoretical quantities. In this paper, we detail the principles governing the implementation of the EarlyStopping-package and provide a survey of recent foundational advances in the theoretical literature. We demonstrate how to use the EarlyStopping-package to explore core features of implicit regularisation and replicate results from the literature.
 
 #### **Preprints**
 
