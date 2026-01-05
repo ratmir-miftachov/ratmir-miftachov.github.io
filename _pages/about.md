@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello there! I am a PhD student in Statistics at Humboldt University of Berlin, Germany, currently in the penultimate year of my program.
+Hello there! I am a PhD student in Statistics at Humboldt University of Berlin, Germany, currently in the final year of my program.
 
 My research interests span **nonparametric statistics**, **statistical machine learning** and **financial econometrics**. I'm fortunate to be advised by Prof. [Wolfgang Karl Härdle](https://scholar.google.com/citations?hl=en&user=XMlSKFcAAAAJ&view_op=list_works).
 
-Currently, I am mainly working on early stopping methods for decision trees and the random forest.
+Currently, I am mainly working on interpretability for foundational models at Amazon.
