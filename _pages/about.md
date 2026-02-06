@@ -19,3 +19,4 @@ Hello there! I am a PhD student in Statistics at Humboldt University of Berlin, 
 
 My research interests span **nonparametric statistics** and **statistical machine learning**. I'm fortunate to be advised by Prof. [Wolfgang Karl Härdle](https://scholar.google.com/citations?hl=en&user=XMlSKFcAAAAJ&view_op=list_works).
 
+Currently thinking about model distillation.
